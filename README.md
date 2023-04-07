@@ -1,6 +1,6 @@
 # Cradlepoint Extensibility Lab
 
-![image](https://user-images.githubusercontent.com/127797701/227977662-e65b110e-abe7-4029-b021-dbd30863b96c.png)
+![image](https://user-images.githubusercontent.com/127797701/230633791-11e340a0-ad6e-4248-8c4f-6750a8156a99.png)
 
 ### Purpose:
 This image runs a JupyterLab (Notebooks) web interface on http://192.168.0.2:8888  
