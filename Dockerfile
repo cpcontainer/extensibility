@@ -1,7 +1,7 @@
 # Copyright (c) Jupyter Development Team.
 # Distributed under the terms of the Modified BSD License.
 
-FROM phate999/base
+FROM quay.io/jupyter/base-notebook
 
 LABEL maintainer="Jupyter Project <jupyter@googlegroups.com>"
 
